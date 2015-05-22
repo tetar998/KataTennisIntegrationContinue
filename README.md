@@ -8,14 +8,14 @@ Logiciels et language: IntelliJ Idea - Java
 Mini Tuto d'utilisation:
 1: Créer un test:
 
-  MatchTest matchtest = new MatchTest();
+	MatchTest matchtest = new MatchTest();
 
 2: Ajouter un des tests disponible:
 
-  matchtest.testAvantage();
-  matchtest.testEgalite();
-  matchtest.testGagne();
-  matchtest.testGagneApresAvantage();
-  matchtest.testQuarenteTrente();
-  matchtest.testQuinzeTrente();
-  matchtest.testRetourEgaliteApresAvantage();
+	matchtest.testAvantage();
+	matchtest.testEgalite();
+	matchtest.testGagne();
+	matchtest.testGagneApresAvantage();
+	matchtest.testQuarenteTrente();
+	matchtest.testQuinzeTrente();
+	matchtest.testRetourEgaliteApresAvantage();
