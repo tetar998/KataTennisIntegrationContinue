@@ -19,3 +19,4 @@ Mini Tuto d'utilisation:
 	matchtest.testQuarenteTrente();
 	matchtest.testQuinzeTrente();
 	matchtest.testRetourEgaliteApresAvantage();
+test
